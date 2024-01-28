@@ -16,3 +16,4 @@ print("The midpoint's y value is: ",b+d/2)
 a = int(input())
 print(a*12%360)
 #sad
+#2 branch
